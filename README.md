@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandan P Aghera</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nandan29300&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan29300" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan29300" alt="nandan29300" /></a> </p>
 
