@@ -1,5 +1,11 @@
 <h4 align="left">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h4>
 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ###
 
 <div align="center">
