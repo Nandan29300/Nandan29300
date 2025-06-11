@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=nandan29300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=nandan29300&" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" height="250" width="250" alt="activity-graph graph"  />
 </div>
 
 ###
