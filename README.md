@@ -201,9 +201,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nandan29300/count.svg?"  />
-</div>
 
 ###
 
