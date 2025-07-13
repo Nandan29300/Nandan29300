@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h3>
+<h4 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h4>
 
 
 <!-- Banner -->
@@ -19,7 +19,7 @@
 <h3 align="center">✍ Developer Philosophy</h3>
 
 <p align="center">
-  <i style="font-size: 26px;">"If it works, don’t touch it. If it breaks, Google it."</i>
+  <i style="font-size: 28px;">"If it works, don’t touch it. If it breaks, Google it."</i>
 </p>
 <p align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></p>
 
