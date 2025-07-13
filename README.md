@@ -218,23 +218,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nandan-p-aghera/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/agheranandan2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-</div>
-
-
-###
-
 ## 📫 Let's Connect!
 
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="linkedin logo" /> [*Gmail*] 💌 nandanaghera@gmail.com
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> [*Linkedin*] 💼 https://www.linkedin.com/in/nandan-p-aghera/
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /> [*Twitter*] https://x.com/agheranandan2
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /> [*Twitter*] 👨‍💻 https://x.com/agheranandan2
 
 
 ---
