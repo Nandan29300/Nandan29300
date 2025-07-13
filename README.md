@@ -19,7 +19,7 @@
 <h3 align="center">✍ Developer Philosophy</h3>
 
 <p align="center">
-  <i style="font-size: 20px;">"If it works, don’t touch it. If it breaks, Google it."</i>
+  <i style="font-size: 26px;">"If it works, don’t touch it. If it breaks, Google it."</i>
 </p>
 <p align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></p>
 
