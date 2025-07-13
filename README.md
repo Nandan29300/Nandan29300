@@ -1,6 +1,12 @@
 <h4 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h4>
 
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Nandan P Aghera+%F0%9F%91%8B;Software+Engineer+%7C+MERN+Stack+Learner;Fueled+by+Code+and+Coffee+%E2%98%95" alt="Typing SVG" />
+</p>
+
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
