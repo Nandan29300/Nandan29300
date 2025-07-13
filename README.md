@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Nandan P Aghera+%F0%9F%91%8B;Software+Engineer+%7C+MERN+Stack+Learner;Fueled+by+Code+and+Coffee+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I%27m+Nandan%20P%20Aghera+%F0%9F%91%8B;Software+Engineer+%7C+MERN+Stack+Learner;Fueled+by+Code+and+Coffee+%E2%98%95" alt="Typing SVG" />
 </p>
 
 
