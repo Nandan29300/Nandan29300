@@ -1,4 +1,4 @@
-<h4 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h4>
+<h3 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h3>
 
 
 <!-- Banner -->
@@ -14,7 +14,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+---
 
+<h3 align="center">✍ Developer Philosophy</h3>
+
+<p align="center"><i>"If it works, don’t touch it. If it breaks, Google it."</i></p>
+<p align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></p>
+
+---
 
 ###
 
