@@ -4,12 +4,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I%27m+Nandan%20P%20Aghera+%F0%9F%91%8B;Software+Engineer+@+Kambala+Solutions;Fueled+by+Code+and+Coffee+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I%27m+Nandan%20P%20Aghera+%F0%9F%91%8B;Software+Engineer+@+Kambala+Solutions;Fueled+by+Code+and+Coffee" alt="Typing SVG" />
 </p>
 
 ### 💭Thoughts
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&width=1230&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&width=1235&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D" alt="Typing SVG" />
 </a>
 
 
