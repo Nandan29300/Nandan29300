@@ -23,10 +23,10 @@
 
 <h3 align="center">✍ Developer Philosophy</h3>
 
-<p align="center">
+<h3 align="center">
   <i style="font-size: 28px;">"If it works, don’t touch it. If it breaks, Google it."</i>
-</p>
-<p align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></p>
+</h3>
+<h3 align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></h3>
 
 
 ---
