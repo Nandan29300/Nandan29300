@@ -30,14 +30,50 @@
 
 
 ---
-![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan29300&show_icons=true&theme=radical)
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmg3azJvYnRxc3AzMXdkdGExMHhzY2t2d2dma25xd296b2RqYXhieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br99SojJZ5rlfSYset/giphy.gif" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=tokyonight&hide_border=false" height="300" alt="languages graph"  /><br><br>
- <img src="https://github-profile-trophy.vercel.app?username=nandan29300&row=1,multi_lang,commits,repos,exp,stars,followers,issues,prs,reviews" height="190" alt="trophy graph" /> <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" height="350" width="850" alt="activity-graph graph"  />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nandan29300&show_icons=true&theme=radical" 
+    height="180" 
+    alt="Nandan's GitHub Stats"
+  />
+  <br><br>
+
+  <!-- Cool Animated GIF -->
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmg3azJvYnRxc3AzMXdkdGExMHhzY2t2d2dma25xd296b2RqYXhieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br99SojJZ5rlfSYset/giphy.gif" 
+    height="180"
+    alt="Animated divider"
+  />
+  <br><br>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&layout=compact&card_width=420&langs_count=10&theme=tokyonight" 
+    height="200"
+    alt="Top Languages"
+  />
+  <br><br>
+
+  <!-- Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nandan29300&theme=onedark&no-frame=true&row=1&margin-w=15" 
+    height="140"
+    alt="GitHub Trophies"
+  />
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" 
+    width="850"
+    height="350"
+    alt="GitHub Activity Graph"
+  />
+
 </div>
+
 
 ---
 
