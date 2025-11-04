@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and System Design</h4>
+<h3 align="center"><h1>Hi there 👋, I'm Nandan P Aghera<br><br></h1>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and System Design</h4>
 
 
 <!-- Banner -->
