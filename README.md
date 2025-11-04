@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="left">✍️ Random Dev Quote</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=github_dark&width=700&height=700" />
