@@ -32,8 +32,6 @@
 ---
 ![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan29300&show_icons=true&theme=radical)
 
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmg3azJvYnRxc3AzMXdkdGExMHhzY2t2d2dma25xd296b2RqYXhieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/br99SojJZ5rlfSYset/giphy.gif" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=tokyonight&hide_border=false" height="300" alt="languages graph"  /><br><br>
