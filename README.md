@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">✍ Developer Philosophy</h3>
+<h3 align="left">✍ Developer Philosophy</h3>
 
 <h3 align="center">
   <i style="font-size: 28px;">"If it works, don’t touch it. If it breaks, Google it."</i>
