@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=tokyonight&hide_border=false" height="300" alt="languages graph"  /><br><br>
- <img src="https://github-profile-trophy.vercel.app?username=nandan29300&row=1,multi_lang,commits,repos,exp,stars,followers,issues,prs,reviews" height="170" width="170" alt="trophy graph" /> <br><br>
+ <img src="https://github-profile-trophy.vercel.app?username=nandan29300&row=1,multi_lang,commits,repos,exp,stars,followers,issues,prs,reviews" height="190" alt="trophy graph" /> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" height="350" width="850" alt="activity-graph graph"  />
 </div>
 
