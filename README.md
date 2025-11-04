@@ -92,10 +92,8 @@
 ---
 ###
 
-<h2><i>Opensource Badges🎖️</i></h2>
----
-[![An image of @nandan's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@nandan2930#badges)](https://www.holopin.io/@nandan2930#badges)
-https://www.holopin.io/@nandan2930#
+
+[![An image of @janavipandole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
 
 ###
 
