@@ -93,7 +93,7 @@
 ###
 
 
-[![An image of @janavipandole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@janavipandole)
+[![An image of @nandan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandan29300)](https://holopin.io/@nandan29300)
 
 ###
 
