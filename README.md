@@ -92,6 +92,21 @@
 ---
 ###
 
+<h2><i>Opensource Badges🎖️</i></h2>
+<table align="center">
+  <h5 style="text-align:center;"><i>GSSOC(25) Badges</i></h5>   
+  <tr>
+    <td style="text-align:center;">
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" />
+    </td>
+    <td style="text-align:center;">
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" />
+    </td>
+    <td style="text-align:center;">
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120px" height="120px" />
+    </td>
+  </tr>
+</table>
 
 ###
 
