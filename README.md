@@ -105,7 +105,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandan29300/nandan29300/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandan29300/nandan29300/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nandan29300/nandan29300/output/github-snake.svg" width="1000" height="500" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nandan29300/nandan29300/output/github-snake.svg" width="1000" height="400" />
 </picture>
 
 ---
