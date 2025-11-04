@@ -17,7 +17,7 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark?border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal?border=true&theme=github_dark"/>
 </div>
 
 ---
