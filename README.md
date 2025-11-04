@@ -1,10 +1,14 @@
-<h4 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring **AI**, **Open Source**, and **System Design**</h4>
+<h3 align="center">Hi there 👋, I'm Nandan P Aghera<br><br>🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and System Design</h4>
 
 
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I%27m+Nandan%20P%20Aghera+%F0%9F%91%8B;Software+Engineer+%7C+MERN+Stack+Learner;Fueled+by+Code+and+Coffee+%E2%98%95" alt="Typing SVG" />
 </p>
+
+### 💭Thoughts
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=800&lines=%22Sometimes+I+fix+one+bug+and+create+three.+Balance+maintained.%22;%E2%80%9CLearning+never+ends+in+tech+%E2%80%94+you+just+change+the+error+messages.%E2%80%9D;%E2%80%9CThe+compiler+doesn%E2%80%99t+hate+me.+It+just+tests+my+emotional+strength.%E2%80%9D;%E2%80%9CEvery+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%E2%80%9D;%E2%80%9CEvery+successful+build+hides+a+story+of+a+developer+losing+patience+at+2+AM.%E2%80%9D" alt="Typing SVG" /></a>
+
 
 ---
 
