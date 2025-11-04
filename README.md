@@ -17,10 +17,9 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark?border=true"/>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 
 <h3 align="center">✍ Developer Philosophy</h3>
