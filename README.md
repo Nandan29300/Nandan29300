@@ -40,7 +40,7 @@
  <img src="https://github-profile-trophy.vercel.app?username=nandan29300&row=1,multi_lang,commits,repos,exp,stars,followers,issues,prs,reviews" height="190" alt="trophy graph" /> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=github-dark" height="350" width="850" alt="activity-graph graph"  />
 </div>
-  ![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan29300&show_icons=true&theme=radical)
+![Janavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janavipandole&show_icons=true&theme=radical)
 
 ---
 
