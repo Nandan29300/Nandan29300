@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <b>Nandan P Aghera</b></h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <h3 align="center">🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and System Design</h3>
 
