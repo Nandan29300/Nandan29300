@@ -24,7 +24,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=github_dark&width=700&height=700" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="left">✍ Developer Philosophy</h3>
 
@@ -34,7 +34,7 @@
 <h3 align="center">— <b>Nandan’s Dev Axiom 🔧📚</b></h3>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ### 📊 GitHub Stats
 <div align="center">
 
@@ -81,7 +81,7 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ###
 
@@ -95,14 +95,14 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ### 
 <h2>💼 <i>Opensource Badges🎖️</i></h2>
 
 [![An image of @nandan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janavipandole)](https://holopin.io/@nandan2930)
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ###
 
@@ -114,7 +114,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nandan29300/nandan29300/output/github-snake.svg" width="1000" height="400" />
 </picture>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ###
 
@@ -135,5 +135,5 @@
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /> [*Twitter*] 👨‍💻 https://x.com/agheranandan2
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
