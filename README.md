@@ -43,12 +43,12 @@
 <h3 align="left">📊 GitHub Stats </h3>
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=nandan29300&show_icons=true&theme=radical" 
     height="180" 
     alt="Nandan's GitHub Stats"
-  />
+  /> -->
   <br><br>
 
   <!-- Cool Animated GIF -->
@@ -59,20 +59,20 @@
   />
   <br><br>
 
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&layout=compact&card_width=420&langs_count=10&theme=tokyonight" 
     height="200"
     alt="Top Languages"
-  />
+  /> -->
   <br><br>
 
-  <!-- Trophies -->
+  <!-- Trophies 
   <img 
     src="https://github-profile-trophy.vercel.app/?username=nandan29300&theme=onedark&no-frame=true&row=1&margin-w=15" 
     height="140"
     alt="GitHub Trophies"
-  />
+  /> -->
   <br><br>
 
   <!-- Activity Graph -->
