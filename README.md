@@ -57,7 +57,7 @@
     height="180"
     alt="Animated divider"
   />
-  <br><br>
+
 
   <!-- Top Languages 
   <img 
