@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and System Design</h3>
+<h3 align="center">🚀 Software Developer | 🌐 Full Stack Developer | 💡 Tech Enthusiast<br><br>🎯 I’m a software developer with a keen interest in crafting clean, scalable, and efficient code. <br><br> 🌱 Currently exploring Gen-AI, Open Source, and DevOps</h3>
 
 
 <!-- Banner -->
