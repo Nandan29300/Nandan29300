@@ -87,7 +87,7 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandan29300&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandan29300&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
