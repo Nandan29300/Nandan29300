@@ -30,13 +30,10 @@ location: India 🇮🇳
 role: Software Engineer @ Kambala Solutions
 focus:
   - Full Stack Development (React, Node.js, Next.js)
-  - DevOps & Cloud (Docker, AWS, GCP, Azure)
-  - Gen-AI & LLM Integration
   - Open Source Contributions
 currently_learning:
-  - Generative AI & Prompt Engineering
-  - Kubernetes & Cloud-Native Architecture
-  - Rust (slowly... very slowly 😅)
+  - DevOps & Cloud
+  - Gen-AI & LLM Integration
 fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 ```
 
@@ -44,7 +41,7 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 
 ---
 
-## 💭 Dev Thoughts (Rotating)
+## 💭 Dev Thoughts
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=%22Fix+one+bug%2C+create+three.+Balance+maintained.%22;%22Learning+never+ends+%E2%80%94+you+just+upgrade+the+error+messages.%22;%22The+compiler+doesn%27t+hate+me.+It+tests+my+emotional+strength.%22;%22Every+new+project+starts+with+fear+%E2%80%94+and+ends+with+pride.%22;%22Successful+builds+hide+stories+of+2+AM+debugging+sessions.%22;%22Documentation+is+a+love+letter+to+your+future+self.%22;%22git+commit+-m+'final_FINAL_v3_forreal_thistime'%22;%22It+works+on+my+machine.+Ship+the+machine.%22" alt="Thoughts" />
@@ -63,7 +60,7 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 
 ### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,spring,dotnet,flask,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
 </p>
 
 ### 📱 Mobile
@@ -73,22 +70,17 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx,heroku,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,nginx,heroku,linux,bash" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,postman,jira,figma,arduino" />
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,postman,figma,arduino" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
