@@ -1,9 +1,18 @@
 <!-- Dynamic header -->
+<!-- <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=230&section=header&text=Nandan%20P%20Aghera&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Gen-AI&descAlignY=62&descSize=19&stroke=00D9FF&strokeWidth=2" width="100%"/> -->
+
+<!-- </div> -->
+
+<!-- Dynamic header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FBE&height=230&section=header&text=Nandan%20P%20Aghera&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Gen-AI&descAlignY=62&descSize=19&stroke=00D9FF&strokeWidth=2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:00D9FF,100:7B2FBE&height=200&section=header&text=Nandan%20P%20Aghera&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=⚡%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Gen-AI&descAlignY=68&descSize=18" width="100%"/>
 </div>
+
+<!-- Typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/...
 
 <!-- Typing intro -->
 <p align="center">
