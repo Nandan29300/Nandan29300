@@ -104,9 +104,9 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandan29300&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandan29300&theme=tokyonight&no-frame=true&row=1&margin-w=12&column=7" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandan29300&theme=tokyo-night&hide_border=true" width="900" alt="GitHub Activity Graph" />
@@ -150,15 +150,13 @@ fun_fact: "I fix bugs by adding more bugs until they cancel each other out."
 
 ---
 
-## 🌍 Visitor Map
+<!--## 🌍 Visitor Map -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://clustrmaps.com/site/1c9y8" title="Visit Tracker">
     <img src="https://www.clustrmaps.com/map_v2.png?d=7VklL1idBV481SuHCZOb-AH88TC42U7YkXCNerDF4iU&cl=ffffff&w=600&t=n&co=0d1117&ct=00D9FF" />
   </a>
-</div>
-
----
+</div> -->
 
 ## 📫 Let's Connect!
 
